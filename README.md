@@ -4,8 +4,6 @@ Everything here is built to make setup, automation and server management easier!
 
 Projects
 --------
-Below are the primary repositories currently maintained in the Plutonium Labs organization.
-
 - [provisioner](https://github.com/PlutoniumLabs/provisioner) - A command-line tool for setting up and managing Minecraft servers
 - [lattice](https://github.com/PlutoniumLabs/lattice) - A Minecraft mod designed to provide server-side features useful to server owners
 - [Klassenserver](https://github.com/PlutoniumLabs/Klassenserver) - Curated files and configuration from previous Minecraft servers
